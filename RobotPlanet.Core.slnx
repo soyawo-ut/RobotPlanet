@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="RobotPlanet.Core/RobotPlanet.Core.csproj" />
+  <Project Path="RobotPlanet.WpfApp/RobotPlanet.WpfApp.csproj" />
+</Solution>
