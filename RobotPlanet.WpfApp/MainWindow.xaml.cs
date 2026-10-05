@@ -49,6 +49,7 @@ namespace RobotPlanet.WpfApp
                     "CleanerBot" => new CleanerBot(name, 100),
                     "ExplorerBot" => new ExplorerBot(name, 100),
                     "RepairBot" => new RepairBot(name, 100),
+                    "GuardBot" => new GuardBot(name, 100),  
                     _ => throw new Exception("Unknown robot type.")
                 };
 
