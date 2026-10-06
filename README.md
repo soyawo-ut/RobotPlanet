@@ -167,19 +167,17 @@ I chose `ProgressBar` because energy is a numeric value between 0 and 100, so a 
 
 ## Git collaboration
 
-Issue:
+Issue: 
 
-TODO
+Add GuardBot to UI selection and creation logic
 
 Classmate:
 
-TODO
+Oleksandr Bosiuk
 
 Pull Request:
 
-TODO
-
-The collaboration task is completed using a separate branch connected to the GitHub Issue.
+https://github.com/soyawo-ut/RobotPlanet/pull/2
 
 ---
 
