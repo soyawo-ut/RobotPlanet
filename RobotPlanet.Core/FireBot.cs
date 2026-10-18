@@ -7,7 +7,7 @@ namespace RobotPlanet.Core
         {
         }
 
-        // Робот тушит пожар
+        
         public override string CrazyAction()
         {
             if (Energy < 20)
